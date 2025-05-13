@@ -1,3 +1,3 @@
-statement = "This is a new file "
+statement = "This is a new file"
 
 print(statement)
